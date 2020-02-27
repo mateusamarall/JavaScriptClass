@@ -1,6 +1,6 @@
 # :computer: JavaScriptClass
 
-class by <a href="https://www.youtube.com/playlist?list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW"> Kevin Jesu's playlist </a>
+class by <a href="https://www.youtube.com/playlist?list=PLBnXXDBNZQpJKH1Fx2EAbKbG9p_dV_pKW"> Kevin Jesus's playlist </a>
 
 # :rocket: Techs
 
