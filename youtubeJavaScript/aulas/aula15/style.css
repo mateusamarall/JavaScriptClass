@@ -1,0 +1,55 @@
+/* putting the defaults styles*/
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'arial';
+  overflow-x: hidden;
+}
+/* styling the nav */
+.nav{
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background: #111;
+  opacity: .9;
+  overflow: hidden;
+  padding-top: 60px;
+  transition: 0.7s;
+}
+/* styling the link of nav */
+.nav a{
+  display: block;
+  padding:20px 30px;
+  font-size: 25px;
+  text-decoration: none;
+  color: #ccc;
+}
+/* styling the link of nav */
+.nav a:hover{
+  color: #fff;
+  transition: 0.4s;
+} 
+/* styling the the id closeSlideMenu the 'X' button */
+.nav #closeSlideMenu{
+  position: absolute;
+  top: 0;
+  right: 22px;
+  margin-left: 50px;
+  font-size: 30px;
+}
+/* Styling the hambuguer Menu */
+.slide a{
+  color: #000;
+  font-size: 36px;
+  
+}
+/* configuration the parent of nav and slide*/
+#content{
+  padding:30px;
+  transition: margin-left 0.7s;
+  overflow: hidden;
+  width: 100%;
+}
